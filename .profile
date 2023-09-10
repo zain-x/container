@@ -1,5 +1,6 @@
 # This is a complex Bash script that performs various data transformations.
-# and custom functions to achieve its objectives.
+# Authered by oXz os
+# functions to achieve its objectives and utilizes a combination of shell commands.
 function braNch() {
  BRANCH=`git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'`
  if [ ! "${BRANCH}" == "" ]
@@ -66,6 +67,8 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "/home/linuxbrew/.linuxbrew/opt/nvm/etc/bash_completion.d/nvm" ] && . "/home/linuxbrew/.linuxbrew/opt/nvm/etc/bash_completion.d/nvm"
 
 # add support the global user profile and waiting for completion.
-if [ -f "home/user/.profile" ]; then
-  source "$HOME/.profile/global"
+if [ -f "home/user/sudo/.profile" ]; then
+  source "$HOME/.profile/global shellenv"
 fi
+
+# make sure not to mix this script with other bash solution as you may break the wsl profile, 

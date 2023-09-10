@@ -71,4 +71,4 @@ if [ -f "home/user/sudo/.profile" ]; then
   source "$HOME/.profile/global shellenv"
 fi
 
-# make sure not to mix this script with other bash solution as you may break the wsl profile, 
+# make sure not to mix this script with other bash solution as you may break the wsl profile. 

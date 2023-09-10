@@ -73,5 +73,5 @@ if [ -f "home/user/sudo/.profile" ]; then
   source "$HOME/.profile/global shellenv"
 fi
 
-# Do not mix this script with other internet solution as you may break the wsl profile. 
+# Do not mix this script with other internet solutions as you may break the wsl profile. 
 # By oXz Os ... share the love

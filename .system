@@ -1,4 +1,101 @@
-function braNch() {
+# System configuration ( danger zone do not touch unless you are an expert or you'll break your system )
+# This is a complex Bash script that performs various data transformations, It is designed to process input data from oXz sources as it utilizes a combination of shell commands and custom data to achieve its objectives.
+# The main script logic parses command-line arguments, calls and the appropriate functions, and manages the overall execution flow.
+# Please note that this script requires Bash version 4.0 or higher to run and it's specially designed to run on computers that use oXz OS.
+# Author: Omar Zain
+# -----------------------------------------------------------------------------------------------
+
+# The following section defines a collection of utility functions 
+# used throughout the script. These functions assist in tasks such as log parsing.
+# This function performs data processing tasks. It takes the input
+# data file, applies a series of transformations, and generates a report.
+function oxz() {
+    local current_dir="$(pwd)"
+    local python_extensions=("py" "pyc" "pyo" "pyd")
+    local javascript_extensions=("js" "mjs" "json" "ts")
+    local java_extensions=("java" "class" "jar")
+    local php_extensions=("php" "php3" "php4" "php5" "phtml")
+    local html_extensions=("html" "htm" "xhtml" "xml")
+    local dart_extensions=("dart")
+    local ruby_extensions=("rb")
+
+    if [[ ! "$(ls -A "${current_dir}")" ]]; then
+        echo "Empty"
+        return
+    fi
+        if [[ -f "${current_dir}/package.json" && -f "${current_dir}/src/index.js" ]]; then
+        echo "React.js"
+        return
+    fi
+    if [[ -f "${current_dir}/pubspec.yaml" && -f "${current_dir}/lib/main.dart" ]]; then
+        echo "Dart/Flutter"
+        return
+    fi
+
+    if [[ -f "${current_dir}/package.json" && -d "${current_dir}/node_modules" && -d "${current_dir}/android" && -d "${current_dir}/ios" ]]; then
+        echo "React Native"
+        return
+    fi
+    if [[ -f "${current_dir}/tsconfig.json" && -f "${current_dir}/package.json" ]]; then
+        echo "TypeScript"
+        return
+    fi
+    
+    if [[ -f "${current_dir}/angular.json" && -f "${current_dir}/package.json" && -d "${current_dir}/node_modules" && -d "${current_dir}/src" ]]; then
+        echo "Angular Web"
+        return
+    fi
+    if [[ -f "${current_dir}/.csproj" && -d "${current_dir}/obj" && -d "${current_dir}/bin" ]]; then
+        echo ".NET"
+        return
+    fi
+        if [[ -d "${current_dir}/app" && -f "${current_dir}/app/build.gradle" && -f "${current_dir}/settings.gradle" ]]; then
+        echo "Android"
+    return
+    fi
+    for file in "${current_dir}"/*; do
+        local extension="${file##*.}"
+        case "${extension,,}" in
+            "${python_extensions[@]}")
+                echo "Python"
+                return
+                ;;
+            "${javascript_extensions[@]}")
+                echo "Javascript"
+                return
+                ;;
+            "${ruby_extensions[@]}")
+                echo "Ruby"
+                return
+                ;;
+            "${java_extensions[@]}")
+                echo "Java"
+                return
+                ;;
+            "${cpp_extensions[@]}")
+                echo "C++"
+                return
+                ;;
+            "${php_extensions[@]}")
+                echo "php"
+                return
+                ;;
+            "${html_extensions[@]}")
+                echo "Html"
+                return
+                ;;
+            "${dart_extensions[@]}")
+                echo "Dart"
+                return
+                ;;
+        esac
+    done
+
+    echo "Unknown"
+}
+
+# provide useful braNch outputs.
+function braNch() { 
  BRANCH=`git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'`
  if [ ! "${BRANCH}" == "" ]
  then
@@ -9,6 +106,8 @@ function braNch() {
  fi
 }
 
+# parse the status and append to the user
+# Implement error handling to gracefully handle unexpected conditions and
 function parse_git_dirty {
  status=`git status 2>&1 | tee`
  dirty=`echo -n "${status}" 2> /dev/null | grep "modified:" &> /dev/null; echo "$?"`
@@ -43,12 +142,28 @@ function parse_git_dirty {
  fi
 }
 
-export PS1="\[\033[35m\] \u: path: \[\033[1;34m\]\[\033[1;34m\]\$(pwd) | \[\033[1;36m\]\$(/bin/ls -1 | /usr/bin/wc -l |
-/bin/sed 's: ::g') files | size \[\033[1;33m\]\$(/bin/ls -lah | /bin/grep -m 1 total | /bin/sed 's/total //')b |\[\033[0m\]\[\033[0m\] \[\033[0;32m\]branch: \`braNch\` | \n\[\033[0;32m\] └─\[\033[0m\033[0;36m\] $~ \[\033[33m\]"
+# SECURITY & Permissions:
+# ***********************
+# Ensure that scripts and data files have appropriate permissions to prevent
+# unauthorized access.
+export PS1="\[\033[3;31m\] \u:\[\033[0m\] \[\033[3;36m\]\$(pwd) \[\033[1;31m|\] \[\033[1;32m\]\$(/bin/ls -1 | /usr/bin/wc -l | /bin/sed 's: ::g') files \[\033[1;31m|\] \[\033[1;93m\]size: \[\033[1;93m\]\$(/bin/ls -lah | /bin/grep -m 1 total | /bin/sed 's/total //')b \[\033[1;31m|\] \[\033[3;35m\]branch: \`braNch\` \[\033[1;31m|\] \[\033[3;36m\]\$(oxz) project\[\033[0m\] \n\[\033[0;32m\] └─\[\033[0m\033[1;36m\] $~ \[\033[1;37m\]"
+if [ -f "/home/linuxbrew/.linuxbrew/bin/brew" ]; then
+  eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+fi
 
-eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
-
+# These script provide the best practices related to data, shell scripting, and script development.
+# already provides some commonly used exports.
 export NVM_DIR="$HOME/.nvm"
 [ -s "/home/linuxbrew/.linuxbrew/opt/nvm/nvm.sh" ] && . "/home/linuxbrew/.linuxbrew/opt/nvm/nvm.sh"
 [ -s "/home/linuxbrew/.linuxbrew/opt/nvm/etc/bash_completion.d/nvm" ] && . "/home/linuxbrew/.linuxbrew/opt/nvm/etc/bash_completion.d/nvm"
 
+# Preferred editor for local and remote sessions
+# if [[ -n $SSH_CONNECTION ]]; then
+#   export EDITOR='vim'
+# else
+#   export EDITOR='mvim'
+# fi
+
+COMPLETION_WAITING_DOTS="true"
+
+# --------------------------------------------------------------------------------------

@@ -111,8 +111,8 @@ PROMPT='%F{green}╭─%F{magenta}%n %F{yellow}| %F{blue}$(pwd) %F{yellow}| %F{g
 # Uncomment the following line to enable command auto-correction.
 # ENABLE_CORRECTION="true"
 # Uncomment the following line to display red dots whilst waiting for completion.
-if [ -f "home/user/.profile" ]; then
-  source "$HOME/.profile/global"
+if [ -f "home/user/.profile/global" ]; then
+  source "$HOME/.profile"
 fi
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"

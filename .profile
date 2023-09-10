@@ -48,18 +48,21 @@ function parse_git_dirty {
 }
 
 # comprehensive reports. The script utilizes a combination of shell commands.
+
 # parses command-line arguments. calls and system data that includes statistical summaries.
 if [ -f "$HOME/.system/.system" ]; then
   source "$HOME/.system/.system"
 fi
 
-# generates a comprehensive report from the processed data.
-# the appropriate functions, and manages the overall execution flow.
+# generates a linuxbrew comprehensive data from the processed data.
+
+# appropriate functions, and manages the overall execution flow.
 if [ -f "/home/linuxbrew/.linuxbrew/bin/brew" ]; then
   eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 fi
 
 # add the input data based on specified criteria.
+
 # supports various conditions (do not touch).
 export NVM_DIR="$HOME/.nvm"
 [ -s "/home/linuxbrew/.linuxbrew/opt/nvm/nvm.sh" ] && . "/home/linuxbrew/.linuxbrew/opt/nvm/nvm.sh"
@@ -70,5 +73,5 @@ if [ -f "home/user/sudo/.profile" ]; then
   source "$HOME/.profile/global shellenv"
 fi
 
-# make sure not to mix this script with other bash solution as you may break the wsl profile. 
+# Do not mix this script with other internet solution as you may break the wsl profile. 
 # By oXz Os ... share the love

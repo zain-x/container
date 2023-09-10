@@ -11,6 +11,7 @@ function braNch() {
  fi
 }
 
+# assist system administrators in troubleshooting and monitoring tasks.
 # Perform data processing steps
 export PS1="\[\033[32m\] \u $~ \[\033[33m\]"
 function parse_git_dirty {

@@ -1,0 +1,59 @@
+
+
+  [
+    {
+      "name": "Linked List",
+      "challenges": [
+        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/Java-Challenge1.zip"},
+        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/linkedlist-Challenge2.zip"},
+        {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/Java-Challenge1.zip"},
+        {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/linkedlist-Challenge4.zip"}
+      ]
+    },
+    {
+      "name": "Stack & Queue",
+      "challenges": [
+        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-Challenge1.zip"},
+        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-Challenge2.zip"},
+        {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/Java-Challenge1.zip"},
+        {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-Challenge4.zip"}
+      ]
+    },
+    {
+      "name": "Trees",
+      "challenges": [
+        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/trees-Challenge1.zip"},
+        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/trees-Challenge2.zip"},
+        {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/trees-Challenge3.zip"},
+        {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/trees-Challenge4.zip"}
+      ]
+    },
+    {
+      "name": "Hash Tables",
+      "challenges": [
+        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/tables-Challenge1.zip"},
+        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/tables-Challenge2.zip"},
+        {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/tables-Challenge3.zip"},
+        {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/tables-Challenge4.zip"}
+      ]
+    },
+    {
+      "name": "Graph",
+      "challenges": [
+        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge1.zip"},
+        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge2.zip"},
+        {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge3.zip"},
+        {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge4.zip"}
+      ]
+    },
+    {
+      "name": "Special",
+      "challenges": [
+        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge1.zip"},
+        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge2.zip"},
+        {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge3.zip"},
+        {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge4.zip"}
+      ]
+    }
+  ]
+  

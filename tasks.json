@@ -17,8 +17,7 @@
         {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/Java-Challenge1.zip"},
         {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-Challenge4.zip"}
       ]
-    },
-
+    }
   ],
   "labs": [
     {
@@ -37,8 +36,5 @@
       "name": "Stack & Queue Lab 2",
       "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-lab2.zip"
     }
-
   ]
 }
-
-

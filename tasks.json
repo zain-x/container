@@ -21,20 +21,17 @@
   ],
   "labs": [
     {
-      "name": "Linked List Lab 1",
-      "url": "https://github.com/omarXzain/Challenges/raw/main/linkedlist-lab1.zip"
+      "name": "Lab 01",
+      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab01.zip"
     },
     {
-      "name": "Linked List Lab 2",
-      "url": "https://github.com/omarXzain/Challenges/raw/main/linkedlist-lab2.zip"
+      "name": "Lab 02",
+      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab01.zip"
     },
     {
-      "name": "Stack & Queue Lab 1",
-      "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-lab1.zip"
-    },
-    {
-      "name": "Stack & Queue Lab 2",
-      "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-lab2.zip"
+      "name": "Lab 03",
+      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab03.zip"
     }
+
   ]
 }

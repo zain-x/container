@@ -4,7 +4,8 @@
       "name": "Special",
       "challenges": [
         {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/Java-Challenge.zip"},
-        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/linkedlist-Challenge.zip"}
+        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/linkedlist-Challenge.zip"},
+        {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/linkedlist-Challenge.zip"}
       ]
     },
     {

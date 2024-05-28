@@ -18,7 +18,7 @@
         {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-Challenge4.zip"}
       ]
     },
-    // More challenge topics...
+
   ],
   "labs": [
     {
@@ -37,7 +37,7 @@
       "name": "Stack & Queue Lab 2",
       "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-lab2.zip"
     }
-    // More lab topics...
+
   ]
 }
 

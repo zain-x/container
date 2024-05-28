@@ -1,6 +1,5 @@
-
-
-  [
+{
+  "challenges": [
     {
       "name": "Linked List",
       "challenges": [
@@ -19,39 +18,27 @@
         {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-Challenge4.zip"}
       ]
     },
+    // More challenge topics...
+  ],
+  "labs": [
     {
-      "name": "Trees",
-      "challenges": [
-        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/trees-Challenge1.zip"},
-        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/trees-Challenge2.zip"},
-        {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/trees-Challenge3.zip"},
-        {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/trees-Challenge4.zip"}
-      ]
+      "name": "Linked List Lab 1",
+      "url": "https://github.com/omarXzain/Challenges/raw/main/linkedlist-lab1.zip"
     },
     {
-      "name": "Hash Tables",
-      "challenges": [
-        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/tables-Challenge1.zip"},
-        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/tables-Challenge2.zip"},
-        {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/tables-Challenge3.zip"},
-        {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/tables-Challenge4.zip"}
-      ]
+      "name": "Linked List Lab 2",
+      "url": "https://github.com/omarXzain/Challenges/raw/main/linkedlist-lab2.zip"
     },
     {
-      "name": "Graph",
-      "challenges": [
-        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge1.zip"},
-        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge2.zip"},
-        {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge3.zip"},
-        {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge4.zip"}
-      ]
+      "name": "Stack & Queue Lab 1",
+      "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-lab1.zip"
     },
     {
-      "name": "Special",
-      "challenges": [
-        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge1.zip"},
-        {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/graph-Challenge4.zip"}
-      ]
+      "name": "Stack & Queue Lab 2",
+      "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-lab2.zip"
     }
+    // More lab topics...
   ]
-  
+}
+
+

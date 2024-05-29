@@ -12,7 +12,6 @@
       "name": "Linked List",
       "challenges": [
         {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/stackqueue-Challenge.zip"}
-
       ]
     }
   ],
@@ -23,12 +22,11 @@
     },
     {
       "name": "Lab 02",
-      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab01.zip"
+      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab02.zip"
     },
     {
       "name": "Lab 03",
       "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab03.zip"
     }
-
   ]
 }

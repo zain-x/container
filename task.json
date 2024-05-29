@@ -1,1 +1,28 @@
+{
+  "challenges": [
+    {
+      "name": "Linked List",
+      "challenges": [
+        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/Java-Challenge1.zip"},
+        {"number": 2, "url": "https://github.com/omarXzain/Challenges/raw/main/linkedlist-Challenge2.zip"},
+        {"number": 3, "url": "https://github.com/omarXzain/Challenges/raw/main/Java-Challenge1.zip"},
+        {"number": 4, "url": "https://github.com/omarXzain/Challenges/raw/main/linkedlist-Challenge4.zip"}
+      ]
+    }
+  ],
+  "labs": [
+    {
+      "name": "Lab 01",
+      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab01.zip"
+    },
+    {
+      "name": "Lab 02",
+      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab01.zip"
+    },
+    {
+      "name": "Lab 03",
+      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab03.zip"
+    }
+  ]
+}
 

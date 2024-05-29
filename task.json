@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Special Challenges",
+      "name": "The Whiteboard Challenge",
       "challenges": [
-        {"number": 1, "url": "https://github.com/omarXzain/Challenges/raw/main/Java-Challenge1.zip"}
+        {"number": 1, "url": "https://github.com/zain-x/container/raw/main/mdContainer/Challenges/ChallengeDay1.zip"}
 
       ]
     }

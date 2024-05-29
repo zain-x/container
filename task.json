@@ -10,19 +10,19 @@
   ],
   "labs": [
     {
-      "name": "Lab 02 - QuizMaster",
+      "name": "Lab 02: Quiz Master",
       "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab02.zip"
     },
     {
-      "name": "Lab 03 - ContactsManager",
+      "name": "Lab 03: Contacts Manager",
       "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab03.zip"
     },
     {
-      "name": "Lab 04 - RPS",
+      "name": "Lab 04: RPS Game",
       "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab04.zip"
     },
         {
-      "name": "Lab 05 - Daily Diary",
+      "name": "Lab 05: Daily Diary",
       "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab05.zip"
     }
   ]

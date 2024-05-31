@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "The Whiteboard Challenge",
+      "name": "Challenge 01 - Whiteboard",
       "challenges": [
-        {"number": 1, "url": "https://github.com/zain-x/container/raw/main/mdContainer/Challenges/ChallengeDay1.zip"}
+        {"number": 1, "url": "https://github.com/zain-x/container/raw/main/mdContainer/Challenges/Challenge01.zip"}
 
       ]
     }

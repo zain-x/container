@@ -1,12 +1,10 @@
 {
   "challenges": [
     {
-      "name": "Whiteboard Only",
+      "name": "Challenges",
       "challenges": [
-        {"number": 1, "url": "https://github.com/zain-x/container/raw/main/mdContainer/Challenges/Challenge01.md"},
-        {"number": 2, "url": "https://github.com/zain-x/container/raw/main/mdContainer/Challenges/Challenge02.md"},
         {"number": 3, "url": "https://github.com/zain-x/container/raw/main/mdContainer/Challenges/Challenge03.md"},
-        {"number": 4, "url": "https://github.com/zain-x/container/raw/main/mdContainer/Challenges/Challenge04x.md"}
+
 
 
 
@@ -34,11 +32,11 @@
   "labs": [
     {
       "name": "Lab 02: Quiz Master",
-      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab02.md"
+      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab02x.md"
     },
     {
       "name": "Lab 03: Contacts Manager",
-      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab03.md"
+      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab03x.md"
     }
 
 

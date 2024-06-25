@@ -60,7 +60,7 @@ Daily-Diary-Manager/
 
 ## To Submit this Assignment
 1. Create a new repository on your personal GitHub account.
-2. Name your repository `Daily-Diary-Manager`.
+2. Name your repository `Daily-Diary`.
 3. Create a branch named `DiaryManager`.
 4. Implement the lab according to the Program Specifications section.
 5. Include a `README.md` file with instructions on how to use the application.

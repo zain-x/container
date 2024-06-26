@@ -16,8 +16,8 @@
    - Methods should include functionalities as:
      - Reading the content of the diary file.
      - Adding entries to the diary.
-     - Deleting specific entries from the diary.
-     - Counting the total number of entries in the diary.
+     - Deleting specific entries from the diary based on user input.
+     - Counting the total number of lines in the diary.
      - Searching for entries based on specific criteria (e.g., date, keyword). ( stretch goal )
 
 
@@ -28,7 +28,7 @@
 1. Implement a method to read the content of the existing diary file.
 2. Allow users to add new entries to the diary, including specifying the date and content.
 3. Provide an option to delete specific entries from the diary based on user input.
-4. Count the total number of entries in the diary and display it to the user.
+4. Count the total number of lines in the diary and display it to the user.
 5. Implement a method in the DailyDiary class to read entries for a specific date from the diary file.
 ```
  Console.WriteLine("Enter the date (YYYY-MM-DD) to retrieve data:");

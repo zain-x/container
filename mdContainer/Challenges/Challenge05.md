@@ -35,8 +35,6 @@ Write a function called `FindDuplicates` that accepts an array as its parameter.
   Output: [10, 16]
 ```
 
-### Implementation and Testing
-- Ensure that each method you write is clean and well-organized. Your code should be modular. You will receive feedback, and marks may be deducted if you attempt to implement a large, complex algorithm within a single function. Each function should have a clear and well-defined purpose.
 
 ## To Submit this Assignment
 3. Create a branch named `Find-Duplicates`.

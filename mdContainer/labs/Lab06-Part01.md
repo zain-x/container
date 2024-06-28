@@ -33,7 +33,7 @@ Adventure Quest RPG! In this lab, you'll create an adventure game where players 
 ### StartBattle Method
 - Define a method named StartBattle that initiates a battle between a player character and an enemy monster.
 - Accept parameters for the player character (player) and the enemy monster (enemy).
-- Enter a loop that continues as long as both the player and the enemy have health greater than zero.
+- Enter a loop that continues as long as both the player or the enemy have health greater than zero.
 - Display a message indicating that it's the player's turn.
 - Handle the player's attack by calling the Attack method with the player as the attacker and the enemy as the target.
 - Check if the enemy's health is reduced to zero or below, If so, display a victory message and end the battle.
@@ -48,7 +48,7 @@ Adventure Quest RPG! In this lab, you'll create an adventure game where players 
 ### XUnit Tests
 - Test whether the Attack method correctly reduces the health of the target (enemy) when the player attacks.
 - Test whether the Attack method correctly reduces the health of the target (player) when the enemy attacks.
-- Assert that the winner health is greater than zero after winning the battle.
+- Assert that the winner's health is greater than zero after winning the battle.
 
 ### Stretch Goals
 - Implement a leveling system where characters gain experience points from defeating monsters and improve their stats.
@@ -71,7 +71,7 @@ Adventure-Quest-RPG/
 1. Create a new repository on your personal GitHub account.
 2. Name your repository `Adventure-Quest-RPG`.
 3. Create a branch named `AdventureQuest-part1`.
-4. Solve your Lab, following the Program Specifications section.
+4. Solve your Lab, by following the Program Specifications section.
 5. Include a `README.md` file with the necessary content.
 6. Push your changes to your GitHub repository.
 7. Create a pull request from your branch to the main branch.

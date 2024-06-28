@@ -33,7 +33,7 @@ Adventure Quest RPG! In this lab, you'll create an adventure game where players 
 ### StartBattle Method
 - Define a method named StartBattle that initiates a battle between a player character and an enemy monster.
 - Accept parameters for the player character (player) and the enemy monster (enemy).
-- Enter a loop that continues as long as both the player or the enemy have health greater than zero.
+- Enter a loop that continues as long as the player or the enemy has health greater than zero.
 - Display a message indicating that it's the player's turn.
 - Handle the player's attack by calling the Attack method with the player as the attacker and the enemy as the target.
 - Check if the enemy's health is reduced to zero or below, If so, display a victory message and end the battle.

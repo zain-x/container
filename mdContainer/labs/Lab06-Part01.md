@@ -7,28 +7,24 @@ Adventure Quest RPG! In this lab, you'll create an adventure game where players 
 
 ## Lab Specifications
 
-### Main Method
+### Main Method (Program.cs)
 - **Logic:**
+  - Create instances of the Player and a Monster.
   - Calls the `StartBattle()` method.
-  - show in the console `Adventure complete!` if you successfully complete the game.
+  - show in the console `Adventure complete!` if you successfully complete the game (defeating the monsters).
 
 ### Character Classes
 - Define classes to represent different types of characters in the game.
-- Create a class named Player to represent the player-controlled character.
+- Create a class named `Player` to represent the player-controlled character.
 - Define properties: Name, Health, AttackPower, and Defense to represent the player's attributes.
 - Initialize default values for these properties.
-- Create a base class named Monster to represent the monsters in the game.
+- Create an `abstract` base class named `Monster` to represent the monsters in the game.
 - Define properties: Name, Health, AttackPower, and Defense to represent monster attributes.
-
-### IBattleStates interface
-- Define an interface named IBattleStates to abstract common battle-related properties.
-- Define properties within the interface to represent attributes shared by characters involved in battle: Name Health, AttackPower, Defense.
-- Implement the IBattleStates interface in classes that participate in battles: Player and Monster.
-- Ensure that each class implementing the interface provides concrete implementations for all properties defined in the interface.
+- Include an abstract method for attack behavior in case of extending monster types with unique attacks ( This task is optional ).
 
 ### Attack Method
-- Define a method named Attack that simulates an attack between two battle entities.
-Accept parameters for the attacker and the target, both of which implement the IBattleStates interface.
+- Create `BattleSystem.cs` class and define a method named `Attack` that simulates an attack between two battle classes.
+- Accept parameters for the attacker and the target.
 - Calculate the damage inflicted by the attacker on the target based on their (attack power and the target's defense) and Ensure that the damage value is never negative.
 - Reduce the target's health by the calculated damage amount.
 - If the target's health drops below zero, set the damage value to zero to prevent negative health values.
@@ -52,12 +48,12 @@ Accept parameters for the attacker and the target, both of which implement the I
 ### XUnit Tests
 - Test whether the Attack method correctly reduces the health of the target (enemy) when the player attacks.
 - Test whether the Attack method correctly reduces the health of the target (player) when the enemy attacks.
-- Assert that the player's health is greater than zero after winning the battle.
+- Assert that the winner health is greater than zero after winning the battle.
 
 ### Stretch Goals
-- Implement a leveling system where characters gain experience points and improve their stats.
+- Implement a leveling system where characters gain experience points from defeating monsters and improve their stats.
 
-### Note: you should use OOP ( object oriented programming ) concepts like virtual methods, method overriding, and interfaces to enhance you code.
+### Note: you should use OOP concepts like virtual methods, and method overriding, to enhance your code.
 
 ### Lab Structure
 ```

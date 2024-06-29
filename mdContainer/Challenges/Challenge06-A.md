@@ -4,9 +4,9 @@
 ### Read all of the following instructions carefully.
 - Do all your work in your previous repository `challenges-and-data-structures`
 - Create a new branch called `Common-Elements`
-- Create a folder `Challenges` inside your repository
+- Create a folder `Challenges` inside your repository ( if not created before )
 - Create another folder inside the `Challenges` folder called `Common-Elements`
-- Solve your challenge and put the `Readme.md` and `Program.cs` inside your `Common-Elements` folder
+- Solve your challenge and put the `solution` inside your `Common-Elements` folder
 - Provide a screenshot of your console output and put the screenshot inside the `Readme.md` file
 - Update the “Table of Contents” in the README at the root of the repository with a link to this challenge’s README file.
 

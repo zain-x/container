@@ -4,8 +4,7 @@
 ### Read all of the following instructions carefully.
 - Do all your work in your previous repository `challenges-and-data-structures`
 - Create a new branch called `Palindrome-Check`
-- Create a folder `Challenges` inside your repository
-- Create another folder inside the `Challenges` folder called `Palindrome-Check`
+- Create a folder inside the `Challenges` folder called `Palindrome-Check`
 - Solve your challenge and put the `Readme.md` and `Program.cs` inside your `Palindrome-Check` folder
 - Provide a screenshot of your console output and put the screenshot inside the `Readme.md` file
 - Update the “Table of Contents” in the README at the root of the repository with a link to this challenge’s README file.

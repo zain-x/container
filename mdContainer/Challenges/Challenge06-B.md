@@ -4,8 +4,7 @@
 ### Read all of the following instructions carefully.
 - Do all your work in your previous repository `challenges-and-data-structures`
 - Create a new branch called `Reverse-Words`
-- Create a folder `Challenges` inside your repository
-- Create another folder inside the `Challenges` folder called `Reverse-Words`
+- Create a folder inside the `Challenges` folder called `Reverse-Words`
 - Solve your challenge and put the `Readme.md` and `Program.cs` inside your `Reverse-Words` folder
 - Provide a screenshot of your console output and put the screenshot inside the `Readme.md` file
 - Update the “Table of Contents” in the README at the root of the repository with a link to this challenge’s README file.

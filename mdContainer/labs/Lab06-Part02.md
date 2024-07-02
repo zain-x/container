@@ -8,7 +8,7 @@ In today's lab, we will continue working on the Adventure Quest RPG game as we w
 
 ### IBattleStates interface
 - Define an interface named IBattleStates to represent common battle-related properties.
-- Define properties within the interface to represent attributes shared by characters involved in battle: Name Health, AttackPower, Defense.
+- Define properties within the interface to represent attributes shared by characters involved in the battle: Name Health, AttackPower, Defense.
 - Implement the IBattleStates interface in classes that participate in battles: Player and Monster.
 - Ensure that each class implementing the interface provides concrete implementations for all properties defined in the interface.
 
@@ -20,20 +20,20 @@ In today's lab, we will continue working on the Adventure Quest RPG game as we w
 - Define a BossMonster class that inherits from the `Monster` class to represent a powerful boss monster.
 - Configure the boss monster with extremely high stats to provide a great challenge for players.
 
-### Advanture Class
-- Initiates the game loop and manages the player's actions during the adventure. It displays the available actions, and processes the player's choice.
+### Adventure Class
+- Initiates the game loop and manages the player's actions during the adventure. It displays the available actions and processes the player's choice.
 - Initializes a list of monsters with predefined values.
 - Displays the player's current location.
 - Prompts the player to choose an action and returns the selected choice.
-- Handles encounters with monsters of all different types of monsters inluding Boss monster ( Randomly ).
+- Handles encounters with monsters of all different types of monsters including Boss monster ( Randomly ).
 - Option to end the game.
-- Presents the available actions for the player to choose from  (e.g., discover a new location, attack a monster, end the game , etc ).
+- Presents the available actions for the player to choose from  (e.g., discover a new location, attack a monster, end the game, etc ).
 
 ### Inventory System (Part 3)
 - After defeating a monster, there is a small chance it will drop items like weapons, armor, or potions, Handle the item drop logic in the BattleSystem class. When a monster is defeated, randomly determine if an item is dropped and add it to the player's inventory list.
 - Define an abstract Item base class with common properties such as Name and Description.
 - Create derived classes for specific item types, such as Weapon, Armor, and Potion, each with additional properties and methods relevant to the item type.
-- Create an Inventory class to manage a collection of items. This class should have methods to add items, and display the inventory contents.
+- Create an Inventory class to manage a collection of items. This class should have methods to add items and display the inventory contents.
 - Integrate the inventory system into the Player class by adding an Inventory property.
 - Implement methods in the Player class to use or equip items. For example, using a potion will increase the player's health, while equipping a weapon will increase their attack power, an Armor will increase the defense, etc.
 - Add a new game option to view and use items from the inventory. Before encountering any monster, the player should have the option to use or equip discovered items if they exsist and handle the exception if they do not exist.
@@ -85,4 +85,3 @@ Adventure-Quest-RPG/
 4. Push your changes to your GitHub repository.
 5. Create a pull request from your branch to the main branch.
 6. Submit a link of your pull request in the submission field.
-

@@ -78,7 +78,7 @@ Adventure-Quest-RPG/
 
 
 ## How To Submit this Lab
-1. Create a new branch named `AdventureQuest-part2` in your existing GitHub repository.
+1. Create a new branch named `AdventureQuest-part2` in your existing GitHub repository `Adventure-Quest-RPG`.
 2. Solve the lab according to the updated specifications.
 3. Update the README.md file with the necessary content.
 4. Push your changes to your GitHub repository.

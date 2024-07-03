@@ -31,7 +31,7 @@ In today's lab, we will continue working on the Adventure Quest RPG game as we w
 
 ### Inventory System (Part 3)
 - After defeating a monster, there is a small chance it will drop items like weapons, armor, or potions, Handle the item drop logic in the BattleSystem class. When a monster is defeated, randomly determine if an item is dropped and add it to the player's inventory list.
-- Define an abstract Item base class with common properties such as Name and Description.
+- Define an abstract Item base class with common properties such as the Name of the item and Description if needed.
 - Create derived classes for specific item types, such as Weapon, Armor, and Potion, each with additional properties and methods relevant to the item type.
 - Create an Inventory class to manage a collection of items. This class should have methods to add items and display the inventory contents.
 - Integrate the inventory system into the Player class by adding an Inventory property.

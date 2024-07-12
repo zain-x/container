@@ -5,7 +5,7 @@
 - Do all your work in your previous repository `challenges-and-data-structures`.
 - Create a new branch called `Linked-List-Remove-Duplicates`.
 - Continue the work inside `Data Structures > Linked-List-Implementation`.
-- Solve your challenge and put the `README.md` and relevant implementation files inside your `RemoveDuplicates` folder inside the Linked-List-Implementation solution tree.
+- Solve your challenge and put the&nbsp;README.md&nbsp;and relevant implementation files inside your&nbsp;RemoveDuplicates folder which should exsist in your `Linked-List-Implementation` solution tree.
 - Follow the submission requirements and include a screenshot of your console output inside your `README.md` file.
 
 ## Example Table of Contents Update

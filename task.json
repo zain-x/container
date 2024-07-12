@@ -25,7 +25,7 @@
       "name": "Data Structure",
       "challenges": [
         {"number": 1, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Linked%20List%20Implemetation.md"},
-        {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Linked%20List%20Remove%20DuplicatesX.md"},
+        {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Linked-List-Remove-DuplicatesX.md"},
                 {"number": 3, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Merge-2-LinkedListsX.md"}
       ]
     }

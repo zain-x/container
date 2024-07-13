@@ -25,7 +25,7 @@
       "name": "Data Structure",
       "challenges": [
         {"number": 1, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Linked%20List%20Implemetation.md"},
-        {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Linked-List-Remove-DuplicatesX.md"},
+        {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Linked-List-Remove-Duplicates.md"},
                 {"number": 3, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Merge-2-LinkedListsX.md"}
       ]
     }
@@ -51,6 +51,10 @@
          {
       "name": "Lab 06: Adventure Quest - Part 2",
       "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab06-Part02.md"
+    },
+         {
+      "name": "Lab 07: Smart Cart",
+      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab07.md"
     }
 
 

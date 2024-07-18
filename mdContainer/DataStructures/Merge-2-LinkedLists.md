@@ -10,7 +10,7 @@
 - Update the "Table of Contents" in the root README of your repository with a link to this challenge's README file.
 
 ### Problem Domain:
-- Use your previues linked list implementation to include a method for merging two sorted linked lists into a single sorted linked list.
+- Use your previous linked list implementation to include a method for merging two sorted linked lists into a single sorted linked list.
 
 ### Detailed Requirements:
 - Utilize the existing `Node` and `LinkedList` classes from your previous implementation.

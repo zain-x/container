@@ -27,7 +27,15 @@
         {"number": 1, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Linked%20List%20Implemetation.md"},
         {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Linked-List-Remove-Duplicates.md"},
                 {"number": 3, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Merge-2-LinkedLists.md"},
-                {"number": 4, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Merge-2-LinkedListsX.md"}
+
+      ]
+    },
+           {
+      "name": "DS - Stack & Queue",
+      "challenges": [
+        {"number": 1, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Stack&QueueImplemetation.md"},
+        {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Stack&Queue.md"},
+
 
 
       ]

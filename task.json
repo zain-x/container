@@ -35,8 +35,8 @@
    "name": "DS - Stack & Queue",
    "challenges": [
     {"number": 1, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Stack%20%26%20Queue/Stack%26Queue-Implementation.md"},
-    {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Stack&Queue.md"}
-
+    {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Stack%20%26%20Queue/Reverse-a-Stack-using-Queue.md"},
+    {"number": 3, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Stack%20%26%20Queue/Delete-Middle-Element-of-a-StackX.md"}
    ]
  }
 
@@ -74,6 +74,10 @@
    {
       "name": "Lab 08: Magic Land Explorer",
       "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab08.md"
+    },
+   {
+      "name": "Lab 08: Magic Land Explorer",
+      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab09.md"
     }
 
 

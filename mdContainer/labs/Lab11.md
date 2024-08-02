@@ -1,26 +1,22 @@
 # Lab 11: Tunify Platform
 
 ## Overview
-
-This lab aims to guide you through integrating your database tables into your Tunify Platform web application using Markdown. By the end of this lab, you'll have a fully functional database integrated with your application, reflecting the entities and relationships defined in your ERD.
+This lab will guide you through integrating your database tables into your Tunify Platform web application. By the end of this lab, you'll have a fully functional database integrated with your application, reflecting the entities and relationships defined in your ERD.
 
 The lab is structured to assist you in:
-
 1. Creating and applying migration scripts for your database.
 2. Defining the shape of each database table through models.
 3. Seeding initial data into your tables.
 
-Follow the steps closely and observe how the data evolves as you proceed.
-
+Follow the steps to install the needed pkgs and configurations:
 ## Application Setup
-
 ### Initial Configuration
 
 1. Create a new Empty .NET Core Web Application.
 
 2. Install the following NuGet packages:
-   - `Microsoft.EntityFrameworkCore.SqlServer v7.0.19`
-   - `Microsoft.EntityFrameworkCore.Tools v7.0.19`
+   - `Microsoft.EntityFrameworkCore.SqlServer v7.0.20`
+   - `Microsoft.EntityFrameworkCore.Tools v7.0.20`
    - `Microsoft.VisualStudio.Web.CodeGeneration.Design v7.0.12`
 
 3. Register your DbContext in the `ConfigureServices` method of your `Startup` class:
@@ -46,8 +42,8 @@ Follow the steps closely and observe how the data evolves as you proceed.
 
 5. Apply the migration to your database:
 
-- Using the Terminal: `dotnet ef database update`
-- Using the Package Manager Console: `Update-Database`
+- Using the Package Manager Console: `Update-Database` or
+- Using the Terminal: `dotnet ef database update` 
 
 6. Verify that the Users table has been successfully created in your local database.
 
@@ -91,13 +87,13 @@ protected override void OnModelCreating(ModelBuilder modelBuilder)
 
 2. Create a new migration to include the seed data:
 
+- Using the Package Manager Console: `Add-Migration SeedInitialData` or
 - Using the Terminal: `dotnet ef migrations add SeedInitialData`
-- Using the Package Manager Console: `Add-Migration SeedInitialData`
 
 3. Apply the migration to seed the data into the tables:
 
+- Using the Package Manager Console: `Update-Database` or
 - Using the Terminal: `dotnet ef database update`
-- Using the Package Manager Console: `Update-Database`
 
 4. Confirm that the initial data has been successfully seeded into your database.
 
@@ -115,7 +111,7 @@ protected override void OnModelCreating(ModelBuilder modelBuilder)
 1. Create a new repository on your personal GitHub account.
 2. Name your repository `Tunify-Platform`.
 3. Create a branch named `Tunify`.
-4. Solve your Lab, following the Program Specifications section.
+4. Solve your Lab, by following the Program Specifications section.
 5. Include a `README.md` file with the necessary content.
 6. Push your changes to your GitHub repository.
 7. Create a pull request from your branch to the main branch.

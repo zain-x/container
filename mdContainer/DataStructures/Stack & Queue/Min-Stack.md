@@ -10,7 +10,7 @@
 - Update the "Table of Contents" in the root README of your repository with a link to this challenge's README file.
 
 ## Problem Domain
-- Implement a `MinStack` class in C# that these operations bellow and retrieving the minimum element in constant time complexity.
+- Implement MinStack class in C# that uses these operations below and retrieves the minimum element in constant time complexity.
 
 ### Min Stack Implementation
 

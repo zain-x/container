@@ -37,7 +37,7 @@
     {"number": 1, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Stack%20%26%20Queue/Stack%26Queue-Implementation.md"},
     {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Stack%20%26%20Queue/Reverse-a-Stack-using-Queue.md"},
     {"number": 3, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Stack%20%26%20Queue/Delete-Middle-Element-of-a-Stack.md"},
-     {"number": 4, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Stack%20%26%20Queue/Min-StackX.md"}
+     {"number": 4, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Stack%20%26%20Queue/Min-Stack.md"}
    ]
  },
 
@@ -95,11 +95,11 @@
     },
    {
       "name": "Lab 12: Tunify - Repo Integration",
-      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab12X.md"
+      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab12.md"
     },
    {
       "name": "Lab 13: Not published yet",
-      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab12.md"
+      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab13X.md"
     }
 
 

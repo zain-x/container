@@ -45,7 +45,7 @@
    "name": "DS - Trees",
    "challenges": [
     {"number": 1, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Trees-Implementation.md"},
-    {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Mirror-TreeX.md"},
+    {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Mirror-Tree.md"},
    {"number": 3, "url": "https://github.com/zain-x/container/edit/main/mdContainer/DataStructures/Trees/2nd-Maximum-ValueX.md"}
 
 
@@ -102,7 +102,7 @@
     },
    {
       "name": "Lab 13: Tunify - Navigation",
-      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab13X.md"
+      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab13.md"
     },
    {
       "name": "Lab 14: Not published yet",

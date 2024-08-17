@@ -20,7 +20,7 @@ By the end of this lab, you'll:
 
 ### 2. Configure Swagger in the Startup Class
 1. Add Swagger Services:
-   In the `Program.cs` or `Startup.cs` file, add Swagger services to the `IServiceCollection`:
+   In `Program.cs` file, add Swagger services:
     ```csharp
     builder.Services.AddSwaggerGen(options =>
     {
@@ -34,7 +34,7 @@ By the end of this lab, you'll:
     ```
 
 2. Enable Swagger Middleware:
-   Add the following method to enable Swagger and Swagger UI in the `Startup` class:
+   Add the following method to enable Swagger and Swagger UI in the `Program.cs` class:
     ```csharp
     app.UseSwagger(
                  options =>

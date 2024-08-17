@@ -49,7 +49,8 @@ By the end of this lab, you'll:
         options.SwaggerEndpoint("/swagger/v1/swagger.json", "Tunify API v1");
         options.RoutePrefix = "";
     });
-```
+    ```
+
 
 ### 3. Test Your Swagger UI
 1. Launch the application and navigate to the root URL to view the Swagger UI.

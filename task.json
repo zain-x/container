@@ -47,7 +47,7 @@
     {"number": 1, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Trees-Implementation.md"},
     {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Mirror-Tree.md"},
    {"number": 3, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/2nd-Maximum-Value.md"},
- {"number": 4, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Leaf-SumX.md"},
+ {"number": 4, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Leaf-Sum.md"},
  {"number": 5, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Largest-Level-ValueX.md"}
 
 
@@ -111,7 +111,7 @@
     },
    {
       "name": "Lab 15: Tunify - Identity Implementation",
-      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab15X.md"
+      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab15.md"
     },
    {
       "name": "Lab 15: Not published yet",

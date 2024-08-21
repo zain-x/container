@@ -27,7 +27,7 @@ Microsoft.AspNetCore.Identity.EntityFrameworkCore
 
 ### 2. Implementing Registration, Login, and Logout
 1. Inside `Interfaces` and `Services` folder:
-- Define an interface `IAccount` for account related operations and implement a service `IdentityAccountService` class that uses Identity functionality to manage user accounts
+- Define an interface `IAccount` for account related operations and implement a service `IdentityAccountService` class that uses Identity functionality to manage user accounts and configure the service in Program.cs using AddScoped method.
 
 2. Add a new controller named `AccountController` to handle user registration, login, and logout functionalities.
 

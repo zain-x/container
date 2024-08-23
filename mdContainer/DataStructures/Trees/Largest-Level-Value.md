@@ -49,9 +49,7 @@ Btree.Root.Right.Left.Right = new Node(11);
 ```
 
 ### Unit Tests with xUnit:
-- Verify the following test cases:
-  - Test calculating the sum of all leaf nodes in a binary tree using the provided example.
-  - Test calculating the sum of all leaf nodes in a binary tree using example with negative leaf values.
+- Verify the sum of calculated largest values of each level are correct using the provided example.
 
 ## To Submit this Assignment:
 1. Create a branch named `Largest-Level-Value`.

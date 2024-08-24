@@ -48,7 +48,7 @@
     {"number": 2, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Mirror-Tree.md"},
    {"number": 3, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/2nd-Maximum-Value.md"},
  {"number": 4, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Leaf-Sum.md"},
- {"number": 5, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Largest-Level-ValueX.md"},
+ {"number": 5, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Largest-Level-Value.md"},
  {"number": 6, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Largest-Level-ValueX.md"}
 
 
@@ -117,7 +117,7 @@
     },
    {
       "name": "Lab 16: Authorization & Claims",
-      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab16X.md"
+      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab16.md"
     },
    {
       "name": "Lab 17: Not published yet",

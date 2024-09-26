@@ -51,8 +51,8 @@
    {"number": 3, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/2nd-Maximum-Value.md"},
  {"number": 4, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Leaf-Sum.md"},
  {"number": 5, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Largest-Level-Value.md"},
- {"number": 6, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Largest-Level-ValueX.md"}
-
+ {"number": 6, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Largest-Level-ValueX.md"},
+ {"number": 7, "url": "https://raw.githubusercontent.com/zain-x/container/refs/heads/main/mdContainer/DataStructures/Trees/Print-Right-View.md"}
 
 
    ]
@@ -122,7 +122,11 @@
       "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab16.md"
     },
    {
-      "name": "Lab 17: Not published yet",
+      "name": "Lab 17 & 18: BookStore",
+      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab17-18.md"
+    },
+   {
+      "name": "Lab 19: Not published yet",
       "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab17X.md"
     }
 

@@ -52,7 +52,9 @@
  {"number": 4, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Leaf-Sum.md"},
  {"number": 5, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Largest-Level-Value.md"},
  {"number": 6, "url": "https://raw.githubusercontent.com/zain-x/container/refs/heads/main/mdContainer/DataStructures/Trees/Print-Right-View.md"},
- {"number": 7, "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/DataStructures/Trees/Largest-Level-ValueX.md"}
+ {"number": 7, "url": "https://raw.githubusercontent.com/zain-x/container/refs/heads/main/mdContainer/DataStructures/Trees/Level-with-maximum-nodes.md"},
+{"number": 8, "url": "https://raw.githubusercontent.com/zain-x/container/refs/heads/main/mdContainer/DataStructures/Trees/Minimum-Depth.md"}
+
 
 
    ]
@@ -126,8 +128,12 @@
       "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab17-18.md"
     },
    {
-      "name": "Lab 19: Not published yet",
-      "url": "https://raw.githubusercontent.com/zain-x/container/main/mdContainer/labs/Lab17X.md"
+      "name": "Lab 20: Event Registration System",
+      "url": "https://raw.githubusercontent.com/zain-x/container/refs/heads/main/mdContainer/labs/Lab20.md"
+    },
+   {
+      "name": "Lab 21: Not published yet",
+      "url": "https://raw.githubusercontent.com/zain-x/container/refs/heads/main/mdContainer/labs/Lab20X.md"
     }
 
 

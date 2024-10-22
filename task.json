@@ -58,7 +58,17 @@
 
 
    ]
- }
+ },
+
+    {
+   "name": "DS - Hash Tables",
+   "challenges": [
+    {"number": 1, "url": "https://raw.githubusercontent.com/zain-x/container/refs/heads/main/mdContainer/DataStructures/Hash%20Table/Hash-Table-Implementation.md"}
+ 
+ 
+   ]
+ },
+
 
 
 

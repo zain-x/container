@@ -1,0 +1,32 @@
+[
+  {
+    "studentNumber": "20210001",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210002",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210003",
+    "name": "Michael Johnson",
+    "email": "michael.johnson@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210004",
+    "name": "Emily Williams",
+    "email": "emily.williams@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210005",
+    "name": "Robert Brown",
+    "email": "robert.brown@example.com",
+    "isActive": false
+  }
+]

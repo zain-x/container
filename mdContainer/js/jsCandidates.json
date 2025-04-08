@@ -3,7 +3,7 @@
     "studentNumber": "20210001",
     "name": "John Doe",
     "email": "john.doe@example.com",
-    "isActive": false
+    "isActive": true
   },
   {
     "studentNumber": "20210002",

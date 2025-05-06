@@ -3,21 +3,14 @@
     {
       "name": "Challenges",
       "challenges": [
-       {"number": 1, "url": "https://github.com/zain-x/container/raw/main/mdContainer/Challenges/Challenge01.md"}
-
-
-
-
-
-      ],
+        {"number": 1, "url": "https://github.com/zain-x/container/raw/main/mdContainer/Challenges/Challenge01.md"}
+      ]
+    }
+  ],
   "labs": [
-        {
-      "name": "Lab 03: Contacts Manager",
-      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab03.md"
+    {
+      "name": "Lab 01: 0",
+      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab01.md"
     }
-
-
-
   ]
-    }
 }

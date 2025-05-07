@@ -6,27 +6,123 @@
     "isActive": false
   },
   {
-    "studentNumber": "20210002",
-    "name": "Jane Smith",
-    "email": "jane.smith@example.com",
+    "studentNumber": "20240506",
+    "name": "Omar Zain",
+    "email": "Private",
     "isActive": true
   },
   {
     "studentNumber": "20210003",
-    "name": "Michael Johnson",
-    "email": "michael.johnson@example.com",
+    "name": "Abdallah abu halima",
+    "email": "Abdallahabuhalima.1.jo@gmail.com",
     "isActive": true
   },
   {
     "studentNumber": "20210004",
-    "name": "Emily Williams",
-    "email": "emily.williams@example.com",
+    "name": "SANA TAWALBEH",
+    "email": "sana.tawalbeh@example.com",
     "isActive": true
   },
   {
     "studentNumber": "20210005",
-    "name": "Robert Brown",
-    "email": "robert.brown@example.com",
+    "name": "Jawhara Sh'HALTOGH",
+    "email": "jawhara.shhaltogh@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210006",
+    "name": "THEKRA QAQISH",
+    "email": "thekra.qaqish@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210007",
+    "name": "MOHAMMAD OTHMAN",
+    "email": "mohammad.othman@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210008",
+    "name": "NAZERA MRAISH",
+    "email": "nazera.mraish@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210009",
+    "name": "HAMZA MIHYAR",
+    "email": "hamza.mihyar@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210010",
+    "name": "OMAR KHALFIEH",
+    "email": "omar.khalfieh@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210011",
+    "name": "HUSAM IBRAHIM",
+    "email": "husam.ibrahim@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210012",
+    "name": "Linda Hashash",
+    "email": "linda.hashash@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210013",
+    "name": "BISAN FARARJEH",
+    "email": "bisan.fararjeh@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210014",
+    "name": "GHASSAN EMRAN",
+    "email": "ghassan.emran@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210015",
+    "name": "FAHED ALSMARAT",
+    "email": "fahed.alsmarat@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210016",
+    "name": "OMAR ALQURAAN",
+    "email": "omar.alquraan@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210017",
+    "name": "Mohammad Al-Momani",
+    "email": "mohammad.almomani@example.com",
     "isActive": false
+  },
+  {
+    "studentNumber": "20210018",
+    "name": "Tasnim Al-mahrouq",
+    "email": "tasnim.almahrouq@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210019",
+    "name": "ADAN ALJBOOR",
+    "email": "adan.aljboor@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210020",
+    "name": "SALMA ABU SEIR",
+    "email": "salma.abuseir@example.com",
+    "isActive": true
+  },
+  {
+    "studentNumber": "20210021",
+    "name": "OSAMA ALMAHAMEED",
+    "email": "osama.almahameed@example.com",
+    "isActive": true
   }
 ]

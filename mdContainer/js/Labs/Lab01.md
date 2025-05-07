@@ -44,7 +44,7 @@ Today you will start setting things up by creating a GitHub account and setting 
 
        - **Learning** is a lifelong journey
        - `Debugging` is a crucial part of the development process
-       - `Consistent practice` is essential for improvement
+       - *Consistent practice* is essential for improvement
        - Debugging is a _learning opportunity_
        ```
 
@@ -56,4 +56,4 @@ Today you will start setting things up by creating a GitHub account and setting 
 
 ### Submission Instructions:
 
-Push yyour changes to your GitHub repo and submit the link to your repo in the assignment submission form.
+Push your changes to your GitHub repo and submit the link to your repo in the assignment submission form.

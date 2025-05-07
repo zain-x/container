@@ -12,7 +12,7 @@ Today you will start setting things up by creating a GitHub account.
      - In the Profile section fill the following sections: Bio(small intro), Profile picture(Please make it professional).
 
 2. **Create your first repository:**
-   - Create a new repo called  **“my-notes”**
+   - Create a new repo called  **“dev-diary”**
    - Add a **README** file.
    - Clone this repo to your local machine.
    - Open it in VS code.

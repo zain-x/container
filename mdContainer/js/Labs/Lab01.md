@@ -25,10 +25,10 @@ Today you will start setting things up by creating a GitHub account.
    - Use different Markdown language features.
    - Do **A-C-P** (add, commit, push).
 
-> Remember: ACP is: 
-> `git add .`
-> `git commit -m "Commit Message"`
-> `git push origin main`
+### Remember: ACP is: 
+- `git add .`
+- `git commit -m "Commit Message"`
+- `git push origin main`
 
 ## Submission Instructions:
 Submit a link to your GitHub account

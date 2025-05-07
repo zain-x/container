@@ -3,14 +3,14 @@
     {
       "name": "Challenges",
       "challenges": [
-        {"number": 1, "url": "https://github.com/zain-x/container/raw/main/mdContainer/Challenges/Challenge01.md"}
+        {"number": 1, "url": "https://github.com/zain-x/container/raw/refs/heads/main/mdContainer/js/Challenges/Challenges/Challenge01.md"}
       ]
     }
   ],
   "labs": [
     {
-      "name": "Lab 01: 0",
-      "url": "https://github.com/zain-x/container/raw/main/mdContainer/labs/Lab01.md"
+      "name": "Lab 01: Developer Practices",
+      "url": "https://github.com/zain-x/container/raw/refs/heads/main/mdContainer/js/Labs/Lab01.md"
     }
   ]
 }

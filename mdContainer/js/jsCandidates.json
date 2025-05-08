@@ -18,7 +18,7 @@
     "isActive": true
   },
   {
-    "studentNumber": "20210004",
+    "studentNumber": "25046768",
     "name": "SANA TAWALBEH",
     "email": "25046768@std.ltuc.edu.jo",
     "isActive": true
@@ -30,21 +30,21 @@
     "isActive": true
   },
   {
-    "studentNumber": "20210006",
+    "studentNumber": "25047005",
     "name": "THEKRA QAQISH",
-    "email": "thekra.qaqish@example.com",
+    "email": "25047005@std.ltuc.edu.jo",
     "isActive": true
   },
   {
-    "studentNumber": "20210007",
+    "studentNumber": "25046618",
     "name": "MOHAMMAD OTHMAN",
-    "email": "mohammad.othman@example.com",
+    "email": "25046618@std.ltuc.edu.jo",
     "isActive": true
   },
   {
-    "studentNumber": "20210008",
+    "studentNumber": "25046897",
     "name": "NAZERA MRAISH",
-    "email": "nazera.mraish@example.com",
+    "email": "25046897@std.ltuc.edu.jo",
     "isActive": true
   },
   {
@@ -54,27 +54,27 @@
     "isActive": true
   },
   {
-    "studentNumber": "20210010",
+    "studentNumber": "25046674",
     "name": "OMAR KHALFIEH",
-    "email": "omar.khalfieh@example.com",
+    "email": "25046674@std.ltuc.edu.jo",
     "isActive": true
   },
   {
-    "studentNumber": "20210011",
+    "studentNumber": "25046806",
     "name": "HUSAM IBRAHIM",
-    "email": "husam.ibrahim@example.com",
+    "email": "25046806@std.ltuc.edu.jo",
     "isActive": true
   },
   {
-    "studentNumber": "20210012",
+    "studentNumber": "21026710",
     "name": "Linda Hashash",
-    "email": "linda.hashash@example.com",
+    "email": "21026710@std.ltuc.edu.jo",
     "isActive": true
   },
   {
-    "studentNumber": "20210013",
+    "studentNumber": "25046657",
     "name": "BISAN FARARJEH",
-    "email": "bisan.fararjeh@example.com",
+    "email": "25046657@std.ltuc.edu.jo",
     "isActive": true
   },
   {
@@ -84,45 +84,45 @@
     "isActive": true
   },
   {
-    "studentNumber": "20210015",
+    "studentNumber": "25046601",
     "name": "FAHED ALSMARAT",
-    "email": "fahed.alsmarat@example.com",
+    "email": "25046601@std.ltuc.edu.jo",
     "isActive": true
   },
   {
-    "studentNumber": "20210016",
+    "studentNumber": "25046659",
     "name": "OMAR ALQURAAN",
-    "email": "omar.alquraan@example.com",
+    "email": "25046659@std.ltuc.edu.jo",
     "isActive": true
   },
   {
-    "studentNumber": "20210017",
+    "studentNumber": "21021781",
     "name": "Mohammad Al-Momani",
-    "email": "mohammad.almomani@example.com",
+    "email": "21021781@std.ltuc.edu.jo",
     "isActive": false
   },
   {
-    "studentNumber": "20210018",
+    "studentNumber": "25046910",
     "name": "Tasnim Al-mahrouq",
-    "email": "tasnim.almahrouq@example.com",
+    "email": "25046910@std.ltuc.edu.jo",
     "isActive": true
   },
   {
-    "studentNumber": "20210019",
+    "studentNumber": "24044595",
     "name": "ADAN ALJBOOR",
-    "email": "adan.aljboor@example.com",
+    "email": "24044595@std.ltuc.edu.jo",
     "isActive": true
   },
   {
-    "studentNumber": "20210020",
+    "studentNumber": "25046653",
     "name": "SALMA ABU SEIR",
-    "email": "salma.abuseir@example.com",
+    "email": "25046653@std.ltuc.edu.jo",
     "isActive": true
   },
   {
-    "studentNumber": "20210021",
+    "studentNumber": "25046619",
     "name": "OSAMA ALMAHAMEED",
-    "email": "osama.almahameed@example.com",
+    "email": "25046619@std.ltuc.edu.jo",
     "isActive": true
   }
 ]

@@ -9,7 +9,6 @@ Today you will start setting things up by creating a GitHub account and setting 
 1. **Set up your GitHub account:**
 
    - Create [GitHub account](https://github.com/signup) and Choose a professional username ( if you don't have one already)
-   - Create a readme with the same name as your GitHub username and add
    - Set up your profile section:
      - Go to Settings
      - In the Profile section fill the following sections: Bio (small intro), Profile picture (Please make it professional).

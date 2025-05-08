@@ -21,7 +21,7 @@
 ```
 
 ### Challenge A: Array Reversal
-Create a function named `ArrayReversal` that accepts an array as its parameter. Without using any built-in methods provided by the C# language, return a new array where the elements are in the reverse order.
+Create a function named `ArrayReversal` that accepts an array as its parameter. Without using any built-in methods, return a new array where the elements are in the reverse order.
 
 #### Example
 ```

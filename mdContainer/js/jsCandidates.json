@@ -1,12 +1,12 @@
 [
   {
     "studentNumber": "20210001",
-    "name": "John Doe",
-    "email": "john.doe@example.com",
+    "name": "Test",
+    "email": "20210001@std.ltuc.edu.jo",
     "isActive": false
   },
   {
-    "studentNumber": "20252025",
+    "studentNumber": "1585252",
     "name": "Omar Zain",
     "email": "Email: hidden",
     "isActive": true
@@ -14,7 +14,7 @@
   {
     "studentNumber": "20210003",
     "name": "Abdallah abu halima",
-    "email": "Abdallahabuhalima.1.jo@gmail.com",
+    "email": "abdallahabuhalima.1.jo@gmail.com",
     "isActive": true
   },
   {

@@ -49,4 +49,4 @@ Write a function called `MinimumValue` that accepts an array of integers. Withou
 4. Push your changes to your GitHub repository.
 5. Create a pull request from your branch to the main branch.
 6. Merge your branch into the main branch.
-7. Submit a link to your pull request.
+7. Submit a link of your GitHub repository with your solutions.

@@ -87,11 +87,12 @@ task-manager/
 
 ## **Submission Instructions**
 
+. Add the following questions in your README:
+   - What observations or questions do you have about what you’ve learned so far?
+   - How long did it take you to complete this assignment? And how long did you expect it to take?
 1. Push your work to the `task-html` branch.
 2. Create a pull request for the branch.
 3. Deploy the project to GitHub Pages.
 4. Merge `task-html` with the main branch.
 5. Submit the pull request of you GitHub repository.
-6. Add the following questions in your README:
-   - What observations or questions do you have about what you’ve learned so far?
-   - How long did it take you to complete this assignment? And how long did you expect it to take?
+

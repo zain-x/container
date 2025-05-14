@@ -26,11 +26,11 @@ Write a function called `MinimumValue` that accepts an array of integers. Withou
 ### Example
 
 ```
-| Input               | Output |
+| Input                   | Output |
 |---------------------|--------|
-| [10, 15, 8, 6, 12]  | 6      |
-| [1, 3, 5, 7, 9]     | 1      |
-| [7, 9, 13, 25, 5]   | 5      |
+| [10, 15, 8, 6, 12]   | 6      |
+| [1, 3, 5, 7, 9]        | 1      |
+| [7, 9, 13, 25, 5]    | 5      |
 ```
 
 ### Implementation and Testing

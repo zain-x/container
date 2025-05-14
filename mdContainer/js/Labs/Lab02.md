@@ -1,4 +1,4 @@
-# **Lab 02: Task Manager**
+# **Lab 02: My Tasks**
 
 ## **Overview**
 

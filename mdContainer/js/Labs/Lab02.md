@@ -50,7 +50,7 @@ task-manager/
 │   └── styles.css
 ├── js/
 │   └── app.js
-└── README.md
+└── README.md (wireframe included)
 ```
 
 ## **4. Implement Pages**

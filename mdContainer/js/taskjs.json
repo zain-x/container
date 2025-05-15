@@ -4,7 +4,7 @@
       "name": "Challenges",
       "challenges": [
         {"number": 1, "url": "https://github.com/zain-x/container/raw/refs/heads/main/mdContainer/js/Challenges/Challenges/Challenge01.md"},
-        {"number": 2, "url": "https://github.com/zain-x/container/raw/refs/heads/main/mdContainer/js/Challenges/Challenges/Challenge02X.md"}
+        {"number": 2, "url": "https://github.com/zain-x/container/raw/refs/heads/main/mdContainer/js/Challenges/Challenges/Challenge02.md"}
       ]
     }
   ],
@@ -16,7 +16,7 @@
     },
     {
       "name": "Lab 02: My Tasks",
-      "url": "https://github.com/zain-x/container/raw/refs/heads/main/mdContainer/js/Labs/Lab02X.md"
+      "url": "https://github.com/zain-x/container/raw/refs/heads/main/mdContainer/js/Labs/Lab02.md"
       
     }
 

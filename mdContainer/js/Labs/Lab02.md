@@ -92,7 +92,7 @@ task-manager/
    - How long did it take you to complete this assignment? And how long did you expect it to take?
 1. Push your work to the `task-html` branch.
 2. Create a pull request for the branch.
-3. Deploy the project to GitHub Pages.
+3. Deploy the project to GitHub Pages (optional if you can't).
 4. Merge `task-html` with the main branch.
 5. Submit the pull request of you GitHub repository.
 

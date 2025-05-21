@@ -124,3 +124,8 @@ magical-characters/
 ### Bonus Features (Optional +1 mark)
 
 - Remove the render limitation and add a **"Load More"** button to display additional characters.
+
+## Great CSS Resources:
+- [CSS Selectors](https://www.w3schools.com/csSref/css_selectors.php)
+- [CSS Flex Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-basics-and-terminology)
+- [Filter CSS Property](https://www.w3schools.com/cssref/css3_pr_filter.php)

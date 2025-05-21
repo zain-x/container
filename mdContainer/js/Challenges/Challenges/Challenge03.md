@@ -22,15 +22,13 @@
 
 Write a function called `ReverseCharacters` that takes a single string as input. The function should return the string with all characters reversed.
 
-This includes letters, spaces, and punctuation—everything should be reversed in order.
-
 #### Example
 
 ```
 console.log(ReverseCharacters("javascript")); // Output: "tpircsavaj"
 console.log(ReverseCharacters("elyts"));    // Output: "style"
 console.log(ReverseCharacters("nadroj"));      // Output: "jordan"
-console.log(ReverseCharacters("abc 564"));  // Output: "465 cba"
+console.log(ReverseCharacters("abc564"));  // Output: "465cba"
 ```
 
 ## To Submit this Assignment

@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
   "updateUrl": "https://github.com/omarXzain/course-explorer",
-  "releaseNotes": "• Improved UI \n• Android Support  \n• New Features \n• App Speed Improvment \n• Bug fixes",
-  "forceUpdate": false
+  "releaseNotes": "• UI Improved\n• Android Support Added\n• New Features Added\n• Dark Mode Support Added\n• App Speed Improved\n• Bugs Fixed",
+  "forceUpdate": true
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "updateUrl": "https://github.com/omarXzain/course-explorer/raw/refs/heads/main/Course%20Explorer.exe",
-  "releaseNotes": "• Improved UI performance\n• Added Assignments section\n• Bug fixes",
-  "forceUpdate": true
+  "version": "1.0.2",
+  "updateUrl": "https://github.com/omarXzain/course-explorer",
+  "releaseNotes": "• Improved UI \n• Android Support  \n• New Features \n• App Speed Improvment \n• Bug fixes",
+  "forceUpdate": false
 }

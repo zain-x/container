@@ -85,7 +85,7 @@ magical-characters/
 
 - Add hover effects on character cards to make them visually appealing.
 
-- Ensure the layout is mobile-friendly.
+- Ensure the layout is mobile-friendly (optional).
 
 - Try to create a unique style.
 

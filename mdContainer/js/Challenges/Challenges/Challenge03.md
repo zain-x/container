@@ -20,7 +20,7 @@
 
 ## Problem Domain
 
-Write a function called `ReverseCharacters` that takes a single string as input. The function should return the string with all characters reversed.
+Write a function called `ReverseCharacters` that takes a single string as input. Without using any built-in methods, The function should return the string with all characters reversed.
 
 #### Example
 

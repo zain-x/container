@@ -10,7 +10,7 @@ In this lab, you will build a web application that fetches and displays informat
 
 ### **1. Set up the Repository**
 
-1. Create a new repository on GitHub named **`magical-characters`** (or use an alternative title).
+1. Create a new repository on GitHub named **`magical-characters`**.
 2. Clone the repository to your local machine.
 3. Work on a branch named `magic`:
    ```bash

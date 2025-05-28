@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-In this lab, you will build a web application for a chicken restaurant called **Crazy Meal**. It will allow you to add and track customer orders by entering details like: meal name, meal price, price and image of the meal.
+In this lab, you will build a web application for a chicken restaurant called **Crazy Meal**. It will allow you to add and track customer orders by entering details like: meal name, meal price and image of the meal.
 
 You will practice key programming skills including creating objects using constructor functions, manipulating the DOM to display dynamic data, handling form submissions, and saving data using the browser’s localStorage.
 
@@ -42,7 +42,6 @@ The **menu.html** page includes a list of chicken items with their name and pric
 
      - Meal name
      - Meal price
-     - Quantity
      - Meal image (optional but recommended)
 
    - A table or list below the form that displays all the orders added by the user.
@@ -57,7 +56,7 @@ The **menu.html** page includes a list of chicken items with their name and pric
 
    - Item names
    - Prices
-   - Images for each item (optional)
+   - Images for each item
 
 2. Include navigation to go back to the home page.
 
@@ -69,7 +68,7 @@ The **menu.html** page includes a list of chicken items with their name and pric
 
    - `mealName`
    - `mealPrice`
-   - `quantity`
+   - `mealImage`
 
 2. **Order Management**:
    - Handle form submission to create new `Order` objects.

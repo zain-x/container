@@ -38,7 +38,7 @@ crazy-meal/
      - Meal price
      - Meal image
 
-   - A table or list below the form that displays all the orders added by the user.
+   - A table ( search for it ) or list below the form that displays all the orders added by the user.
 
 3. **Footer**: Add your name and the current year.
 

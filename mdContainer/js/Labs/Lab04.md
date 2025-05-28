@@ -26,12 +26,6 @@ crazy-meal/
 
 ## **HTML Requirements**
 
-The **menu.html** page includes a list of chicken items with their name and prices, and optional images for each item.
-
----
-
-## **HTML Requirements**
-
 ### **Home Page (`index.html`)**
 
 1. **Header**: Add the restaurant name **Crazy Meal** at the top.
@@ -42,7 +36,7 @@ The **menu.html** page includes a list of chicken items with their name and pric
 
      - Meal name
      - Meal price
-     - Meal image (optional but recommended)
+     - Meal image
 
    - A table or list below the form that displays all the orders added by the user.
 

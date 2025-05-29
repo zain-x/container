@@ -5,7 +5,7 @@
 - Do all your work in your previous repository `challenges-and-data-structures`
 - Create a new branch called `Reverse-Characters`
 - Create a folder inside the `Challenges` folder called `Reverse-Characters`
-- Solve your challenge and put the `Readme.md` and `Program.cs` inside your `Reverse-Characters` folder
+- Solve your challenge and put the `Readme.md` inside your `Reverse-Characters` folder
 - Provide a screenshot of your console.log output and put the screenshot inside the `Readme.md` file (you can run the js file from terminal using: node app.js)
 - Update the “Table of Contents” in the README at the root of the repository with a link to this challenge’s README file.
 

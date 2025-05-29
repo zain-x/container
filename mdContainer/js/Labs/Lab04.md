@@ -68,7 +68,7 @@ crazy-meal/
    - Handle form submission to create new `Order` objects.
    - Store the orders in localStorage.
    - On page refresh, retrieve orders from localStorage and display them.
-   - Add a button to clear all orders. (Optional)
+   - Add a button to clear all orders.
 
 ---
 

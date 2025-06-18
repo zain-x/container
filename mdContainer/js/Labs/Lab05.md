@@ -139,7 +139,7 @@ Flavor-Table
 
 ---
 
-## **Bonus Task ( +1 Mark )** (Optional)
+## **Bonus Task ( +1 Mark | Optional )**
 
 ### **Recipe Details Page**
 Implement a detailed recipe view:

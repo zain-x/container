@@ -1,6 +1,6 @@
 # Linked List Reverse
 
-- NOTE: This challenge is a console-based solution. You need to submit the pull request with xUnit tests.
+- NOTE: This challenge is a console-based solution. You need to submit the pull request with Jest unit tests.
 
 ### Read all of the following instructions carefully:
 

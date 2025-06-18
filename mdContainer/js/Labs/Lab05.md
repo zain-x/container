@@ -1,4 +1,4 @@
-# Lab: Flavor Table
+# **Lab 05: Flavor Table**
 
 ---
 

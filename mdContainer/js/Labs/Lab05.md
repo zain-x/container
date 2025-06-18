@@ -11,7 +11,7 @@ This lab introduces API keys, query parameters, Axios requests, and secure envir
 
 ## **Problem Domain**
 
-Build a node.js server to fetch real recipe data, filter based on user input, and handle API communication securely.  
+Build a node.js server to fetch real recipe data, search based on user input, and handle API communication securely.  
 The app will use **frontend JavaScript** (`app.js`) to fetch data asynchronously from backend API routes, providing a smooth user experience.
 
 ---

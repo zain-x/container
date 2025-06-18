@@ -144,7 +144,7 @@ Flavor-Table
 ### **Recipe Details Page**
 Implement a detailed recipe view:
 1. **New Route**  
-   `/recipes/:id` - Fetches details using this api [`/recipes/{id}/information`](https://spoonacular.com/food-api/docs#Get-Recipe-Information)
+   `/recipes/:id` - Fetche recipe details using this api [`/recipes/{id}/information`](https://spoonacular.com/food-api/docs#Get-Recipe-Information)
 
 2. **Features**  
    - Add "View Details" button to cards  

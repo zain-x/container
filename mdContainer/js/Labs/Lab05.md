@@ -139,6 +139,27 @@ Flavor-Table
 
 ---
 
+## **Bonus Task ( +1 Mark)** (Optional)
+
+### **Recipe Details Page**
+Implement a detailed recipe view:
+1. **New Route**  
+   `/recipes/:id` - Fetches details using this api [`/recipes/{id}/information`](https://spoonacular.com/food-api/docs#Get-Recipe-Information)
+
+2. **Features**  
+   - Add "View Details" button to cards  
+   - Show:  
+     - Recipe Image (`image`)  
+     - Recipe Title (`title`)
+     - Summary (`summary`) 
+     - Cooking time (`readyInMinutes`)  
+ 
+
+3. **Display**  
+   Use either via modal view ( search for it ) or in a new page
+
+---
+
 ## **Submission Instructions**
 
 1. Push your work to the `Flavor-Table-Lab` branch.

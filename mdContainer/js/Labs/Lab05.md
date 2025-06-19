@@ -62,7 +62,7 @@ Flavor-Table
 
 ---
 
-### b) Random Recipe Page (`/recipes/search`)
+### b) Random Recipe Page (`/recipes/random`)
 
 - Fetch a random recipe using Spoonacular’s API (check the API Docs) from the resources section below.
 - Return simplified JSON with the following fields:
@@ -73,7 +73,7 @@ Flavor-Table
 
 ---
 
-### c) Search Recipes by Ingredients (`recipes/random`)
+### c) Search Recipes by Ingredients (`recipes/search`)
 
 - Accept a query parameter `ingredients` with comma-separated values.
 - Use Axios to fetch recipes from Spoonacular’s API (check the API Docs) from the resources section below.

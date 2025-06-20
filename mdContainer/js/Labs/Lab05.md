@@ -39,9 +39,11 @@ The app will use **frontend JavaScript** (`app.js`) to fetch data asynchronously
 Flavor-Table
 ├── node_modules/
 ├── public/
-│ ├── index.html # Main Flavor Table HTML page
+│ ├── index.html   # Main Flavor Table HTML page
+│ ├── favorites.html   # Local storage recipes
+│ ├── randomRecipes.html   # Show random Recipes
 │ ├── styles.css
-│ └── app.js # handle search and fetch results asynchronously
+│ └── app.js    # handle search and fetch results asynchronously
 ├── routes/
 │ ├── home.js # render index.html page from public folder
 │ └── recipes.js # Handles recipe API routes ( searching , random recipes ... )

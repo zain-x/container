@@ -167,11 +167,10 @@ Implement a detailed recipe view:
 1. Push your work to the `Flavor-Table-Lab` branch.
 2. Create a pull request for the branch.
 3. Merge the `Flavor-Table-Lab` branch into the main branch.
-4. Deploy the project to GitHub Pages and include the live link in the README.md file.
-5. Add the following questions to the README.md:
+4. Add the following questions to the README.md:
    - How many hours did it take you to complete this assignment?
    - Were there any parts of the lab you found challenging?
-6. Submit the pull request link for your GitHub repository.
+5. Submit the pull request link for your GitHub repository.
 
 ## **Resources**
 

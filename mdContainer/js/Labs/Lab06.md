@@ -22,7 +22,8 @@ Modify the previous **Flavor Table** app to:
 
 ### 1. PostgreSQL Setup
 
-- Since you have PostgreSQL installed on your local machine. run the following command `sqlstart` to start the server.
+- Since you have PostgreSQL installed on your local machine. run the following command `sqlstart` to start the server. 
+[Postgres installation](https://github.com/omarXzain/programming-installation-guide/blob/main/Computer%20setup%20guide/part5.md)
 - Create a database named `flavor_table`.
 - Create a table `recipes` with the following schema:
 

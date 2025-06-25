@@ -83,7 +83,7 @@ Flavor-Table2
 │ ├── index.html
 │ ├── favorites.html  # new postgres favorites page
 │ ├── randomRecipes.html
-| ├── editRecipe.html  # (Optional: Separate page for editing recipes)
+ | ├── editRecipe.html  # (Optional: Separate page for editing recipes)
 │ ├── styles.css
 │ └── app.js  # update to use PostgreSQL instead of localStorage
 ├── routes/

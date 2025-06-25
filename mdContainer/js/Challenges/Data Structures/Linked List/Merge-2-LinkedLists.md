@@ -1,4 +1,4 @@
-# Linked List Reverse
+# Linked List Merge Sorted Lists
 
 - NOTE: This challenge is a console-based solution. You need to submit the pull request with Jest unit tests.
 

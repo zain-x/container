@@ -76,8 +76,9 @@ Merged List: Head -> 5 -> 10 -> 15 -> 20 -> 25 -> 30 -> 35 -> Null
 
 ### Edge Cases:
 
-- One List is Empty
-- Both Lists are Empty
+- One list is empty → Return the non-empty list.
+- Both lists are empty → Return null.
+- Lists with duplicate values → Keep all duplicates in the merged list.
 
 ## Unit Tests with Jest
 

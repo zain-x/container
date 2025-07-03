@@ -100,7 +100,3 @@ Output: Head -> 10 -> 15 -> 20 -> 5 -> Null
 7. Submit the link to your pull request in the submission field.
 
 - hint: You need traverse the list to calculate its length first.
-
-```
-
-```

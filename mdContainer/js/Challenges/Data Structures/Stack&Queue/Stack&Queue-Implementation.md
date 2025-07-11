@@ -7,8 +7,8 @@
 - Do all your work in your previous repository `challenges-and-data-structures`.
 - Create a new branch called `Stack-and-Queue-Implementation` inside your `Data Structures`.
 - Create a folder named `Stack & Queue` inside your `Data Structures` folder.
-- Create a new solution inside `Stack & Queue` folder called `StackAndQueue`.
-- Solve your challenge and put the `README.md` and relevant implementation files inside your `Stack & Queue` folder.
+- Create a new folder inside `Stack & Queue` folder called `Stack&Queue-Implementation`.
+- Solve your challenge and put the `README.md` and relevant implementation files inside your `Stack&Queue-Implementation` folder.
 - Follow the submission requirements and include a screenshot of your console output inside your `README.md` file.
 - Update the `Table of Contents` in the README at the root of the repository with links to these challenges `README` files.
 

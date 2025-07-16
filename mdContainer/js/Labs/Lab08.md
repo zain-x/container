@@ -16,7 +16,7 @@ Note: This lab combines your understanding of component-based architecture and t
 - Use props to pass data between components
 - Manage internal state using `useState`
 - Render dynamic lists
-- Use Axios to fetch external data from a public API called `randomuser`: [Here](https://randomuser.me/api/?results=10)
+- Use Axios to fetch external data from a public API called `randomuser`: [Here](https://randomuser.me/api/?results=12)
 
 ---
 
@@ -41,7 +41,7 @@ Note: This lab combines your understanding of component-based architecture and t
 ### 2. Create a `UserList` Component
 
 - Use Axios to fetch a list of users from this API:  
-  `https://randomuser.me/api/?results=10`
+  `https://randomuser.me/api/?results=12`
 - Store the fetched users in a state variable.
 - Render multiple `UserCard` components using `.map()`.
 - Pass the necessary data to each `UserCard`.

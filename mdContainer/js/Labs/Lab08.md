@@ -68,7 +68,6 @@ Note: This lab combines your understanding of component-based architecture and t
 InstaBoard/
 ├── node_modules/
 ├── public/
-│   └── index.html
 ├── src/
 │   ├── components/
 │   │   ├── UserCard/

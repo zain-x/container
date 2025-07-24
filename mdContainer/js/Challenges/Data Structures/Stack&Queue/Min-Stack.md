@@ -101,4 +101,4 @@ let isEmpty = minStack.isEmpty(); // isEmpty: false
 
 6. Merge your branch into the `main`.
 
-7. Submit the link to your pull request in the submission field.
+7. Submit the link of your pull request in the submission field.

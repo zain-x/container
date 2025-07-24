@@ -30,7 +30,7 @@ This lab builds upon your previous `InstaBoard` app. You will extend your React 
 
 ## Updated Project Structure
 
-// Rework the previous structure and use .jsx extension
+- Rework the previous structure and use .jsx extension
 ```
 │ │ ├── UserCard/
 │ │ │ ├── UserCard.js

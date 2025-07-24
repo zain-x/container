@@ -51,7 +51,7 @@ InstaBoard2/
 │   │       ├── Team.jsx     # Displays all users using randomuser.me API + Like feature + Load more
 │   │       ├── Team.css
             TeamDetails/
-│   │       ├── TeamDetails.jsx   # Detailed user profile using data from useLocation
+│   │       ├── TeamDetails.jsx   # Detailed user profile using data from useLocation (useLocation)
 │   │       ├── TeamDetails.css
 │   │   |── LikedUsers.jsx  ( Bonus Task ) Shows only liked users from localStorage + "Unlike" support
 │   ├── pages/

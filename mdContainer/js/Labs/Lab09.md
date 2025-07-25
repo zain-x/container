@@ -96,8 +96,8 @@ InstaBoard2/
 ### 3. Navigation Bar
 
 - Create a `Navigation` component
-- Use `NavLink` or `Link` to link to the above pages
-- Style the active link using the `isActive` function
+- Use `Link` or `NavLink` or to link to the above pages
+- Style the active link using the `isActive` function ( optional )
 
 ---
 

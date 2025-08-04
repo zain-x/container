@@ -81,7 +81,7 @@ magical-characters/
 
 - Style the character list using a responsive flexbox layout.
 
-- Use a font from **Google Fonts** named: **Harry P** and import it in the css file (use google search)
+- Use a font named: **Harry P** (HARRYP__.TTF) download it and use it (search how)
 
 - Add hover effects on character cards to make them visually appealing.
 

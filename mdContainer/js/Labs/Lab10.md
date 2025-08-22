@@ -2,9 +2,9 @@
 
 ## Objective
 
-- By building on your previous knowledge, create a React app where users can register/login, then log their job applications in Firestore.
+- By building on your previous knowledge, Create a React app where users can register/login, then log their job applications in Firestore.
 - Users should be able to create, read, update, and delete and filter applications by status (applied, interview, rejected, hired).
-- Use Redux Toolkit for state management and Redux Persist to store state locally
+- Use Redux Toolkit for state management and Redux Persist to store state locally.
 
 ## Requirements
 
@@ -52,8 +52,8 @@
 ### 4. Firestore Integration
 
 - On registration, store user profile data in a users collection ( name, email, role).
-  Create a jobApplications collection with fields:
-  company, position, status (with values: "applied", "interview", "rejected", "hired"), userId, createdAt.
+- Create a jobApplications collection with fields:
+- company, position, status (with values: "applied", "interview", "rejected", "hired"), userId, createdAt.
 - Make sure Firestore security rules restrict access so users can only read/write their own documents. ( Search how (optional) )
 
 ### 5. Protected Routes
@@ -116,3 +116,4 @@ const querySnapshot = await firestore
   - What was the most challenging part?
 - Create a Pull Request from `job-tracker-lab` to main.
 - Submit the GitHub Pull Request link.
+

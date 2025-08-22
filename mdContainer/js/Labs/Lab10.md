@@ -106,6 +106,8 @@ const querySnapshot = await firestore
 - Update: Edit company, position, or status fields.
 - Delete: Remove an application.
 
+--- 
+
 ## Submission Instructions
 
 - Create a new repository named `Job-Tracker`.
@@ -116,4 +118,5 @@ const querySnapshot = await firestore
   - What was the most challenging part?
 - Create a Pull Request from `job-tracker-lab` to main.
 - Submit the GitHub Pull Request link.
+
 

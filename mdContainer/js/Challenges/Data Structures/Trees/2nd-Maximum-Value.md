@@ -57,7 +57,7 @@ Using your binary tree implementation, find the second maximum value in a binary
 ### Unit Tests with Jest:
 
 - Verify the following test cases:
-  - Test finding the maximum value in a binary tree using the provided example.
+  - Test finding the 2nd maximum value in a binary tree using the provided example.
   - Test with a tree with only one node.
   - Test with a tree having negative values.
 
@@ -80,3 +80,4 @@ Using your binary tree implementation, find the second maximum value in a binary
 5. Create a pull request from your branch to the main branch.
 6. Merge your branch into the main.
 7. Submit the link of your pull request in the submission field.
+

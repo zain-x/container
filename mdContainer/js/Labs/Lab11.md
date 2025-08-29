@@ -107,7 +107,8 @@
 
 ## Resources
 
-- [Create OpenAI API](https://platform.openai.com/docs/api-reference)
+- [Create OpenAI API](https://platform.openai.com/api-keys)
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference/chat/create)
 - [Tailwind CSS UI Blocks](https://tailwindcss.com/plus/ui-blocks)
 - [Firebase Firestore](https://firebase.google.com/docs/firestore)
+

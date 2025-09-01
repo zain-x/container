@@ -143,7 +143,6 @@ Flavor-Table2
 
 ## **Resources**
 
-- Check the demo code from the previous lecture: [Postgres & CRUD](https://github.com/omarXzain/javascript-demos/tree/main/node_PSQL_CRUD_demo)
 - [API Docs](https://spoonacular.com/food-api/docs)
 - [pg Documentation](https://node-postgres.com/)
 - [PostgreSQL SQL Commands](https://www.postgresql.org/docs/current/sql-commands.html)
